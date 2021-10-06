@@ -1,3 +1,4 @@
 собрать докер контейнер sudo docker-compose up -d
 вывести qr код для подключения
 docker exec -it wireguard /app/show-peer 1
+https://igancev.ru/2021-02-21-vpn-wireguard-docker
